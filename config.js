@@ -2,13 +2,13 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "Gửi em bé Nguyễn Ngọc Tú Anh của anh nè!!!",
-        "Hôm qua tới giờ làm em hong vui",
-        "Anh Tiêu xin lỗi bé Muối nhiều nè",
-        "Anh luôn ở bên em mọi lúc đó dù có ở xa nhưng mà có thể mang được em đi mọi nơi nữa đóa em biết làm sao được hong",
-        "Vì trái tim của em ở trong anh rồi đây nè ^^",
-        "Giữ cả đời đó biết chưa Huy?",
-        "Yêu em Muối <3",
+        "Em bé ơi!! anh có hết thương em bé hồi nào đâu",
+        "Cái bé này hay nghĩ ngợi lung tung không hà",
+        "Nhưng mà anh Tiêu xin lỗi bé Muối nhiều nè",
+        "Anh hong dám nói như vậy với bé iu nữa đâu, anh sẽ nhắc nhở nhẹ với em iu thôi nè",
+        "Em iu đừng trách anh nha ^^",
+        "Sáng nào cũng hit mùi của em anh mới đi làm luôn đóa",
+        "Anh nghiện em bé với thương em né nhiều roài đóa! Yêu bé Muối <3",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
