@@ -10,6 +10,9 @@ var config = {
         // "Sáng nào cũng hit mùi của em anh mới đi làm luôn đóa",
         // "Anh nghiện em bé với thương em né nhiều roài đóa! Yêu bé Muối <3",
         "Em bé ơi!! hôm nay anh yêu em nhiều hơn một chút đóa",
+        "Cái bé này sao mà nay giỏi dữ vầy nè",
+        "Yêu quá đi à!! có lương nữa chớ, nhớ bao anh yêu đi ăn ở chợ cồn đó nhan",
+        "Em bé của anh siêu giỏi mà còn ngon nữa à nhầm ngoan :D"
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
