@@ -12,7 +12,7 @@ jobs:
     steps:
       - shell: bash
         run: |
-          apt update
-          apt install curl
+          sudo apt update
+          sudo apt install curl
           curl --version
         
