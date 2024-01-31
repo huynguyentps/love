@@ -15,4 +15,5 @@ jobs:
           sudo apt update
           sudo apt install curl
           curl --version
+          ls -la
         
